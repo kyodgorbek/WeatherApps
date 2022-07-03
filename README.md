@@ -12,3 +12,4 @@ During the Project I have used following technologies
 - Moshi
 - Google Location Services
 - For Weather Data I have used Open Meteo https://open-meteo.com/en
+- Screen shot of App https://ibb.co/JpnDRC5
