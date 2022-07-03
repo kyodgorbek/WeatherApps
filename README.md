@@ -1,4 +1,4 @@
-During the Project I have used following technologies
+During the Weather App Project I have used following technologies
 
 - MVI
 - Clean Architecture
